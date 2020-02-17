@@ -1,4 +1,4 @@
-# Just another test assigment
+# Test assignment
 
 ### First of all - import CSV file to database. 
 
